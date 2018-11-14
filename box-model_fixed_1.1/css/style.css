@@ -1,0 +1,36 @@
+.first {
+  position: fixed;
+  top: 167px;
+  left: 84px;
+}
+
+.second {
+  position: fixed;
+  top: 167px;
+  left: 284px;
+}
+
+.third {
+  position: fixed;
+  top: 167px;
+  left: 484px;
+}
+
+.fourth {
+  position: fixed;
+  top: 501px;
+  left: 84px;
+}
+
+.fifth {
+  position: fixed;
+  top: 501px;
+  left: 284px;
+}
+
+.sixth {
+  position: fixed;
+  top: 501px;
+  left: 484px;
+}
+
